@@ -2,6 +2,8 @@
 I'm 31, currently at **42 Paris**.<br>
 Low-level programmer (C/C++) and **Full-Stack Web Developer**.
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeportie/) 
 
@@ -26,9 +28,6 @@ Low-level programmer (C/C++) and **Full-Stack Web Developer**.
 ![](https://github-readme-stats.vercel.app/api?username=jeportie&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jeportie&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeportie&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jeportie&limit=5&theme=dark&combine_all_yearly_contributions=true)
