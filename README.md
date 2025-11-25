@@ -2,8 +2,6 @@
 I'm 31, currently at **42 Paris**.<br>
 Low-level programmer (C/C++) and **Full-Stack Web Developer**.
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeportie/) 
 
