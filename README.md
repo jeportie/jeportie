@@ -3,7 +3,7 @@ I'm 31, currently at **42 Paris**.<br>
 Low-level programmer (C/C++) and **Full-Stack Web Developer**.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-van-paemel-a70192209/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeportie/) 
 
 # 💻 Tech Stack:
 
