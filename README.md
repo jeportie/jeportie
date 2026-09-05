@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm 32, currently at **42 Paris**.<br>
-Low-level programmer (C/C++) and **Full-Stack Web Developer**.
+I'm 32, currently at **Ledger**.<br>
+**SDET** and **Full-Stack Web Developer**.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeportie/) 
